@@ -1,0 +1,128 @@
+.homeWrapper {
+    padding: 20px;
+   /* background-color: white;*/
+    
+  }
+  
+  .hero {
+    text-align: left;
+    padding: 50px 0;
+    margin: 0 110px;
+  
+  }
+  
+  .spaPackages {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+    
+    
+  }
+  
+  .package {
+    flex: 1;
+    margin: 0 10px;
+    padding: 20px;
+    background-color: #e31870!important;
+    border-radius: 10px;
+    
+  }
+  .Preis{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 25px;
+    color: white;
+    background-color: rgb(15, 18, 15);
+    width: 200px;
+    height: 50px;
+    margin-left: 150px;
+    font-size: 25px;
+    align-items: center;
+    font-family: 'Great Vibes';
+  
+
+  }
+  .image{
+   width: 80%;
+   max-width: 600px;
+   margin: 20px 0  0 40px;
+   
+  }
+  .images{
+    width: 25%;
+    max-width: 600px;
+    margin: 20px 0  0 900px;
+   }
+   .p{
+    color: white;
+    
+   }
+   .foto{
+    width: 60%;
+    max-width: 600px;
+    margin: 20px 0  0 230px;
+   
+   
+   }
+
+   .Input{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 25px;
+    color: white;
+    background-color: rgb(202, 193, 10);
+    width: 200px;
+    height: 50px;
+    margin-left: 150px;
+    font-size: 25px;
+    align-items: center;
+    font-family: 'Great Vibes';
+   }
+
+
+
+
+   .homeSection {
+    position: relative;
+    width: 100%;
+    height: 100vh; 
+    overflow: hidden;
+  }
+  
+  .videoBackground {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+   
+  }
+  
+  .content {
+    position: relative;
+    z-index: 1;
+    color:#e31870!important; 
+    text-align: center;
+    padding: 30px;
+   
+    
+    
+  
+  }
+  
+  .title {
+    font-size: 30px;
+    margin: 0;
+    color:#e31870!important;
+  }
+
+
+  /*.iam{
+    width: 100%;
+    max-width: 900px;
+    margin: 5px 0   130px;
+  }*/

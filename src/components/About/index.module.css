@@ -1,0 +1,24 @@
+.image{
+    width: 60%;
+    max-width: 600px;
+    margin: 20px 0;
+    border-radius: 10px;
+   
+   }
+   .abut{
+    background-color: #db16c0;
+   }
+
+   .certificates{
+    display: flex;
+    justify-content: center; /* Центрирует фотографии горизонтально, можно использовать space-between, space-around и т.д. */
+    gap: 30px; /* Расстояние между фотографиями */
+    padding: 10px; /* Отступы внутри контейнера */
+
+
+  
+    height: auto; /* Сохраняет соотношение сторон */
+    border-radius: 20px; /* Скругляет углы фотографий */
+    box-shadow: 0 4px 8px  #e31870; /* Добавляет тень для визуального эффекта */
+
+   }
