@@ -6,8 +6,7 @@
   
   .hero {
     text-align: left;
-    padding: 50px 0;
-    margin: 0 110px;
+    margin: 0 0 ;
   
   }
   
@@ -37,9 +36,9 @@
     width: 200px;
     height: 50px;
     margin-left: 150px;
-    font-size: 25px;
+    font-size: 20px;
     align-items: center;
-    font-family: 'Great Vibes';
+    font-family: "Josefin Sans", sans-serif
   
 
   }
@@ -93,7 +92,7 @@
   
   .videoBackground {
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
     width: 100%;
     height: 100%;
@@ -107,7 +106,7 @@
     z-index: 1;
     color:#e31870!important; 
     text-align: center;
-    padding: 30px;
+   
    
     
     
@@ -121,8 +120,3 @@
   }
 
 
-  /*.iam{
-    width: 100%;
-    max-width: 900px;
-    margin: 5px 0   130px;
-  }*/

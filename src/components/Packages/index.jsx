@@ -40,9 +40,7 @@ function Packages() {
         <Package className={styles.package}>
         <img  className={styles.image} src={myFoto7} alt='myFoto' />
           <h1>Wie sieht der Mitgliederbereich aus und was finde ich dort?</h1>
-          <p>
-
-Nach dem Kauf des Kurses erhalten Sie Zugang zu einem Dashboard mit allen Informationen und meiner Unterstützung. Dort können Sie andere Schüler kennenlernen und Erfahrungen sowie Ideen austauschen, denn es ist großartig, nicht alleine auf Ihrem Entwicklungsweg zu sein. Wenn Sie jedoch individuelle Kurse nur mit mir und 24/7 Unterstützung wünschen, können Sie ganz einfach das VIP-Paket mit meiner persönlichen Betreuung erwerben. Aber ich versichere Ihnen, dass ich in jedem Kurs immer individuell auf jeden eingehe.</p>
+          <p>In dieses Paket sind der Basiskurs + 2D, 3D + Trend-Effekte enthalten, alle Techniken und Feinheiten, alle Schwierigkeiten und Geheimnisse, die Sie im Internet nicht frei finden werden. Der Kurs zu Effekten und schöner Fotobearbeitung ist ebenfalls dabei!</p>
         </Package>
       </PackageSection>
     </PackagesWrapper>

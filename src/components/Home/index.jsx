@@ -2,7 +2,7 @@ import React from 'react';
 import styles from './index.module.css';
 import myFoto  from './media/IMG_1305.JPG';
 import myFoto1 from './media/UV.jpeg';
-import myFoto2 from './media/IMG_1303.JPG';
+import myFoto2 from './media/IMG_1208.JPG';
 import myFoto9 from './media/Certifikat.png';
 
 
@@ -22,7 +22,7 @@ function Home() {
         
       </video>
       <div className={styles.content}>
-        <p className={styles.title}>Herzlichen Glückwunsch! Du bist im neuesten Kurs für Wimpernverlängerung im neuen UV-System!
+        <p className={styles.title}>  &#9733;&#9733;&#9733;&#9733;&#9733;Herzlichen Glückwunsch! Du bist im neuesten Kurs für Wimpernverlängerung im neuen UV-System!
 
 
 Melden Sie sich noch heute für den Kurs an und erhalten Sie 10% Rabatt!</p>
@@ -34,25 +34,28 @@ Melden Sie sich noch heute für den Kurs an und erhalten Sie 10% Rabatt!</p>
 
         <h1>ONLINE SCHULUNG WIMPERNVERLÄNGERUNG</h1>
         <p>ALL INCLUSIVE ONLINE KURS</p>
-        <div>inklusive Basisausbildung inklusive 2D-, 3D- bis Volumen Schulung hochwertiges Starterset inklusive2 x Zertifikate. E-Mail WhatsApp Support lebenslanger Zugang</div>
+        <div>  &#9733; Basisausbildung ( Klassische Wimpernverlängerung 1:1), Inklusive Zertifikat, meine ständige Unterstützung und Hilfe. <p> &#9733; Basisausbildung +  2D-, 3D- bis Volumen Schulung, Inklusive Zertifikat, meine ständige Unterstützung und Hilfe. </p>&#9733;  ALL INCLUSIVE SCHULUNG VIP, Inklusive Zertifikat, meine ständige Unterstützung und Hilfe.</div>
       </div>
       <div className={styles.spaPackages}>
         <div className={styles.package}>
         <img  className={styles.image} src={myFoto} alt='myFoto' />
           <h2>BASISAUSBILDUNG</h2>
-          <p>Mit dem erlernten Wissen und den Fähigkeiten kannst Du Deinen eigenen Weg gehen, Deine Karriere selbst in die Hand nehmen und ein erfolgreiches Beauty-Business aufbauen. </p>
+          <p>( Klassische Wimpernverlängerung 1:1)</p>
+          <p>Mit dem erlernten Wissen und den Fähigkeiten kannst Du Deinen eigenen Weg gehen, Deine Karriere selbst in die Hand nehmen und ein erfolgreiches Beauty-Business aufbauen. </p> <p> 199 € -10%</p>
           <div className={styles.Preis}> fervolg startet hier</div>
         </div>
         <div className={styles.package}>
         <img  className={styles.image} src={myFoto1} alt='myFoto' />
           <h2>BASISAUSBILDUNG + VOLUMEN</h2>
-          <p>Durch Deine neue berufliche Unabhängigkeit gewinnst Du mehr Lebensqualität. Du kannst Deine Zeit flexibel einteilen und Dein Business so gestalten, wie es am besten zu Dir passt.</p>
+          <p>(Basisausbildung +  2D-, 3D- bis Volumen)</p>
+          <p>Durch Deine neue berufliche Unabhängigkeit gewinnst Du mehr Lebensqualität. Du kannst Deine Zeit flexibel einteilen und Dein Business so gestalten, wie es am besten zu Dir passt.</p> <p> 299 € -10%</p>
           <div className={styles.Preis}>fervolg startet hier</div>
         </div>
         <div className={styles.package}>
         <img  className={styles.image}src={myFoto2} alt='myFoto' />
           <h2>ALL INCLUSIVE SCHULUNG VIP</h2>
-          <p>Du erhältst nicht nur fachliches Wissen, sondern auch Unterstützung bei Deiner persönlichen Entwicklung. Du lernst, Ängste und Unsicherheiten zu überwinden und Selbstvertrauen aufzubauen.</p>
+          <p>(BASISAUSBILDUNG + VOLUMEN + Alle Trandeffecte + Express-Fotobearbeitungskurs) </p>
+          <p>Du erhältst nicht nur fachliches Wissen, sondern auch Unterstützung bei Deiner persönlichen Entwicklung. Du lernst, Ängste und Unsicherheiten zu überwinden und Selbstvertrauen aufzubauen.</p> <p> 499 -10% €</p>
           <div className={styles.Preis}>fervolg startet hier</div>
         </div>
        
@@ -62,7 +65,7 @@ Melden Sie sich noch heute für den Kurs an und erhalten Sie 10% Rabatt!</p>
           <h3>Wimpernverlängerung Online Schulung mit Zertifikat </h3>
           <p>Nachdem Du unsere Online Schulung gekauft hast, erhältst Du sofort Deinen Zugang zum Mitgliederbereich und kannst Dir direkt die Schulungsvideos ansehen u. lernen.</p>
           <p>Auch nachdem Du den Online Kurs Wimpernverlängerung bestanden hast, stehe ich Dir mit Rat und Tat zur Seite. Du kannst mir gerne weiterhin Fragen stellen 🙏🏽.</p>
-          <p>Herzlichen Glückwunsch, Du hast die All Inclusive Online Schulung Wimpernverlängerung mit Bravur bestanden. Wir senden Dir nun per Post Deine 2 exklusiven Zertifikate im PDF Format zu.</p>
+          <p>Herzlichen Glückwunsch, Du hast die All Inclusive Online Schulung Wimpernverlängerung mit Bravur bestanden. Wir senden Dir nun per Post Deine 1 exklusive Zertifikat im PDF Format zu.</p>
           <div className={styles.package}>
           <img className={styles.foto}src={myFoto9} alt='myFoto'/>
         </div>

@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import 'flickity/css/flickity.css';
 import Flickity from 'react-flickity-component';
 
-import myFoto2 from './media/IMG_1208.JPG';
+import myFoto2 from './media/IMG_1303.JPG';
 import myFoto3 from './media/certificate1.png';
 import myFoto4 from './media/certificate2.png';
 import myFoto5 from './media/certificate3.png';
@@ -60,10 +60,11 @@ const About = () => {
      
       <AboutWrapper>
         <AboutSection>
-          <h1>Über mich</h1>
+         
+          <p>  ÜBER MICH</p> 
           <img className={styles.image} src={myFoto2} alt="myFoto" />
           <p>
-            Hallo! Mein Name ist Tamara Haak. Als leidenschaftlicher Perfektionist lege ich höchsten Wert auf Detailgenauigkeit und Exzellenz. Meine kreative Vision und mein unermüdliches Streben nach Verbesserung machen mich zu einem einzigartigen Lehrer und Mentor. Ich bin nicht nur ein Meister meines Fachs, sondern auch ein engagierter und inspirierender Coach, der Sie auf Ihrem Weg zum Erfolg begleitet. In der Wimpernindustrie habe ich bei renommierten Meistern der Wimpernverlängerung und trendigen Effekten gelernt. Während meiner Laufbahn habe ich ein enormes Wissen und praktische Erfahrungen gesammelt, die ich jetzt mit dir teilen möchte! Damit du deinen Platz in der Schönheitsbranche finden kannst, und glaube mir, mit mir wird es dir sehr leicht und spaßig gelingen! Der Beruf des Wimpernstylisten hat sich heutzutage so global und umfassend entwickelt, dass du ein enormes Potenzial hast, in kurzer Zeit bekannt zu werden! Du wirst zu einem gefragten Spezialisten, von denen es in Europa nicht viele gibt, weil meine Kurse auf weltweitem Niveau basieren. Ich werde wie Meister Yoda an deiner Seite sein, dich unterstützen, beraten und dich über Neuheiten in der Wimpernindustrie informieren! Träumst du davon, ein Profi zu werden? Melde dich für meinen umfangreichen Wimpernverlängerungskurs an und erhalte 10% Rabatt! Mache den ersten Schritt zu einer erfolgreichen Karriere in der Schönheitsbranche!
+            Hallo! Mein Name ist Tamara Haak. <p> Als leidenschaftlicher Perfektionist lege ich höchsten Wert auf Detailgenauigkeit und Exzellenz. </p> Meine kreative Vision und mein unermüdliches Streben nach Verbesserung machen mich zu einem einzigartigen Lehrer und Mentor. Ich bin nicht nur ein Meister meines Fachs, sondern auch ein engagierter und inspirierender Coach, der Sie auf Ihrem Weg zum Erfolg begleitet. <p> In der Wimpernindustrie habe ich bei renommierten Meistern der Wimpernverlängerung und trendigen Effekten gelernt. Während meiner Laufbahn habe ich ein enormes Wissen und praktische Erfahrungen gesammelt, die ich jetzt mit dir teilen möchte! Damit du deinen Platz in der Schönheitsbranche finden kannst, und glaube mir, mit mir wird es dir sehr leicht und spaßig gelingen! Der Beruf des Wimpernstylisten hat sich heutzutage so global und umfassend entwickelt, dass du ein enormes Potenzial hast, in kurzer Zeit bekannt zu werden! Du wirst zu einem gefragten Spezialisten, von denen es in Europa nicht viele gibt, weil meine Kurse auf weltweitem Niveau basieren.</p> Ich werde wie Meister Yoda an deiner Seite sein, dich unterstützen, beraten und dich über Neuheiten in der Wimpernindustrie informieren! Träumst du davon, ein Profi zu werden? Melde dich für meinen umfangreichen Wimpernverlängerungskurs an und erhalte 10% Rabatt! Mache den ersten Schritt zu einer erfolgreichen Karriere in der Schönheitsbranche!
           </p>
 
           <h1>Meine Zertifikate sind mein Stolz.</h1>

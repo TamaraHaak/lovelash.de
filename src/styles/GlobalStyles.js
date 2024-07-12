@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
-import backgroundImage from '../images/euro1.jpeg';
+import backgroundImage from '../images/euro.jpeg';
 
 
 const GlobalStyles = createGlobalStyle`
@@ -7,7 +7,11 @@ const GlobalStyles = createGlobalStyle`
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Arial', sans-serif;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 20px;
+
+
+    
  
   }
 
@@ -16,6 +20,9 @@ const GlobalStyles = createGlobalStyle`
     height: 100%;
     width: 100%;
     overflow: hidden;
+
+
+    
   }
 
   #root::before {
